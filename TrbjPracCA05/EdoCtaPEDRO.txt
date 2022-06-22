@@ -1,0 +1,7 @@
+Clave del cliente: 200
+Medio : CH960 - Monto: 500.00
+Medio : TC431 - Monto: 876.55
+Medio : CH200 - Monto: 431.12
+Medio : TC221 - Monto: 948.90
+Total de transacciones: 4
+Tiempo de duración 7 milisegundos

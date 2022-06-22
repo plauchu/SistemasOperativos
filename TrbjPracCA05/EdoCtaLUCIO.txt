@@ -1,0 +1,6 @@
+Clave del cliente: 600
+Medio : TC111 - Monto: 12060.00
+Medio : TC564 - Monto: 980.00
+Medio : TC433 - Monto: 6.90
+Total de transacciones: 3
+Tiempo de duración 6 milisegundos

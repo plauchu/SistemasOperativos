@@ -1,0 +1,6 @@
+Clave del cliente: 700
+Medio : CH329 - Monto: 765.89
+Medio : CH210 - Monto: 1066.00
+Medio : TC299 - Monto: 999999.00
+Total de transacciones: 3
+Tiempo de duración 6 milisegundos

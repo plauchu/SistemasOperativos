@@ -1,0 +1,5 @@
+Clave del cliente: 100
+Medio : CH400 - Monto: 1000.00
+Medio : TC223 - Monto: 230.00
+Total de transacciones: 2
+Tiempo de duración 7 milisegundos

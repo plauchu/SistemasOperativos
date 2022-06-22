@@ -1,0 +1,5 @@
+Clave del cliente: 500
+Medio : CH545 - Monto: 700.00
+Medio : CH444 - Monto: 879.00
+Total de transacciones: 2
+Tiempo de duración 6 milisegundos

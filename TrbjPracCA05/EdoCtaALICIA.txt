@@ -1,0 +1,5 @@
+Clave del cliente: 900
+Medio : CH226 - Monto: 100.30
+Medio : CH544 - Monto: 445.31
+Total de transacciones: 2
+Tiempo de duración 5 milisegundos

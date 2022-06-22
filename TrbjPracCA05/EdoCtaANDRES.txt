@@ -1,0 +1,6 @@
+Clave del cliente: 400
+Medio : CH001 - Monto: 239.00
+Medio : CH002 - Monto: 345.90
+Medio : CH330 - Monto: 3000.58
+Total de transacciones: 3
+Tiempo de duración 6 milisegundos

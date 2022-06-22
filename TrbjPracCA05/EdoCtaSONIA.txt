@@ -1,0 +1,6 @@
+Clave del cliente: 300
+Medio : TC300 - Monto: 400.00
+Medio : CH972 - Monto: 250.00
+Medio : CH987 - Monto: 555.00
+Total de transacciones: 3
+Tiempo de duración 6 milisegundos
